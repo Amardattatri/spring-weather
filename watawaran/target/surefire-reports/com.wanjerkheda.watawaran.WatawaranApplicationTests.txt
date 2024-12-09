@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wanjerkheda.watawaran.WatawaranApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.656 s - in com.wanjerkheda.watawaran.WatawaranApplicationTests

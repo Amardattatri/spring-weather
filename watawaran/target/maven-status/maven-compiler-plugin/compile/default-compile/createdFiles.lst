@@ -1,0 +1,7 @@
+com\wanjerkheda\watawaran\config\AppConfig$1.class
+com\wanjerkheda\watawaran\config\AppConfig.class
+com\wanjerkheda\watawaran\controller\WeatherController.class
+com\wanjerkheda\watawaran\dto\CurrentConditions.class
+com\wanjerkheda\watawaran\service\WeatherService.class
+com\wanjerkheda\watawaran\WatawaranApplication.class
+com\wanjerkheda\watawaran\dto\WeatherDTO.class

@@ -1,0 +1,11 @@
+# Redis Config
+spring:
+  redis:
+    host: localhost
+    port: 6379
+
+# Weather API Key
+weather:
+  api:
+    key: 2BN8XA4XJ9RQ73ZT9DH6MPRK4
+    url: https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/
